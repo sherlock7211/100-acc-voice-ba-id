@@ -577,28 +577,28 @@ jano95.on("ready", () => {
 });
 //////////////////
 jano96.on("ready", () => {
-  var join = jano96.channels.get(""); /// id voice
+  var join = jano96.channels.get("1019975207240351834"); /// id voice
   if (join) join.join();
 });
 //////////////////
 jano97.on("ready", () => {
-  var join = jano97.channels.get(""); /// id voice
+  var join = jano97.channels.get("1019975207240351834"); /// id voice
   if (join) join.join();
 });
 //////////////////
 jano98.on("ready", () => {
-  var join = jano98.channels.get(""); /// id voice
+  var join = jano98.channels.get("1019975207240351834"); /// id voice
   if (join) join.join();
 });
 //////////////////
 jano99.on("ready", () => {
-  var join = jano99.channels.get(""); /// id voice
+  var join = jano99.channels.get("1019975207240351834"); /// id voice
   if (join) join.join();
 });
 
 /////////////////////
 jano100.on("ready", () => {
-  var join = jano100.channels.get(""); /// id voice
+  var join = jano100.channels.get(""1019975207240351834); /// id voice
   if (join) join.join();
 });
 //////// playing or dnd  streaming ////////
@@ -1842,7 +1842,7 @@ jano95.on("ready", () => {
 
 jano96.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`JUST ALLAH`];
+  let statuses = [`𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐒 2𝐤 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 𝐒𝐨𝐨𝐧`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     jano96.user.setActivity(STREAMING, {
@@ -1855,7 +1855,7 @@ jano96.on("ready", () => {
 
 jano97.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`JUST ALLAH`];
+  let statuses = [`𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐒 2𝐤 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 𝐒𝐨𝐨𝐧`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     jano97.user.setActivity(STREAMING, {
@@ -1868,7 +1868,7 @@ jano97.on("ready", () => {
 
 jano98.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`JUST ALLAH`];
+  let statuses = [`𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐒 2𝐤 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 𝐒𝐨𝐨𝐧`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     jano98.user.setActivity(STREAMING, {
@@ -1881,7 +1881,7 @@ jano98.on("ready", () => {
 
 jano99.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`JUST ALLAH`];
+  let statuses = [`𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐒 2𝐤 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 𝐒𝐨𝐨𝐧`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     jano99.user.setActivity(STREAMING, {
@@ -2003,7 +2003,7 @@ jano93.login("");
 jano94.login("");
 jano95.login("");
 jano96.login("");
-jano97.login("ODY4MTE3NTcxOTY5Mzg0NTE4.Gcduig.BP7IuIp-QYU4MXfcwqqVSy7B5rMqFJzEsMkP6Y");
-jano98.login("ODY4MTE3NTcxOTY5Mzg0NTE4.GuQG-X.NzxNLdLuHncpx57Yp4KHNYfWTYn4LTE0LO-E-w");
-jano99.login("ODU4ODAyNTEwNTQ5NjE0NjUy.GKX7aV.ohwMtbS0vIYb9VLCzsmvX4FwjtTKiZ1sAQ8-Nk");
-jano100.login("OTkzNTg5MzI3Njg0NzEwNTIx.GcPuR8.bAAWXHr1gy2RzXQXXFQw5iuM4_hmeUzkXUeIXk");
+jano97.login("992816602737279057");
+jano98.login("868117571969384518");
+jano99.login("993589327684710521");
+jano100.login("858802510549614652");
