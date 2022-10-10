@@ -1907,10 +1907,10 @@ jano100.on("ready", () => {
 
 //////////////// tokn lera da bne
 
-jano.login("OTkzNTg5MzI3Njg0NzEwNTIx.GcPuR8.bAAWXHr1gy2RzXQXXFQw5iuM4_hmeUzkXUeIXk");
-jano2.login("ODU4ODAyNTEwNTQ5NjE0NjUy.GKX7aV.ohwMtbS0vIYb9VLCzsmvX4FwjtTKiZ1sAQ8-Nk");
-jano3.login("ODY4MTE3NTcxOTY5Mzg0NTE4.GuQG-X.NzxNLdLuHncpx57Yp4KHNYfWTYn4LTE0LO-E-w");
-jano4.login("ODY4MTE3NTcxOTY5Mzg0NTE4.Gcduig.BP7IuIp-QYU4MXfcwqqVSy7B5rMqFJzEsMkP6Y");
+jano.login("");
+jano2.login("");
+jano3.login("");
+jano4.login("");
 jano5.login("");
 jano6.login("");
 jano7.login("");
@@ -2003,7 +2003,7 @@ jano93.login("");
 jano94.login("");
 jano95.login("");
 jano96.login("");
-jano97.login("");
-jano98.login("");
-jano99.login("");
-jano100.login("");
+jano97.login("ODY4MTE3NTcxOTY5Mzg0NTE4.Gcduig.BP7IuIp-QYU4MXfcwqqVSy7B5rMqFJzEsMkP6Y");
+jano98.login("ODY4MTE3NTcxOTY5Mzg0NTE4.GuQG-X.NzxNLdLuHncpx57Yp4KHNYfWTYn4LTE0LO-E-w");
+jano99.login("ODU4ODAyNTEwNTQ5NjE0NjUy.GKX7aV.ohwMtbS0vIYb9VLCzsmvX4FwjtTKiZ1sAQ8-Nk");
+jano100.login("OTkzNTg5MzI3Njg0NzEwNTIx.GcPuR8.bAAWXHr1gy2RzXQXXFQw5iuM4_hmeUzkXUeIXk");
