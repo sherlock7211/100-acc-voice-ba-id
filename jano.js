@@ -1894,7 +1894,7 @@ jano99.on("ready", () => {
 
 jano100.on("ready", () => {
   console.log(`Online In Servers`);
-  let statuses = [`JUST ALLAH`];
+  let statuses = [`𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐒 2𝐤 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 𝐒𝐨𝐨𝐧`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     jano100.user.setActivity(STREAMING, {
@@ -1907,10 +1907,10 @@ jano100.on("ready", () => {
 
 //////////////// tokn lera da bne
 
-jano.login("");
-jano2.login("");
-jano3.login("");
-jano4.login("");
+jano.login("OTkzNTg5MzI3Njg0NzEwNTIx.GcPuR8.bAAWXHr1gy2RzXQXXFQw5iuM4_hmeUzkXUeIXk");
+jano2.login("ODU4ODAyNTEwNTQ5NjE0NjUy.GKX7aV.ohwMtbS0vIYb9VLCzsmvX4FwjtTKiZ1sAQ8-Nk");
+jano3.login("ODY4MTE3NTcxOTY5Mzg0NTE4.GuQG-X.NzxNLdLuHncpx57Yp4KHNYfWTYn4LTE0LO-E-w");
+jano4.login("ODY4MTE3NTcxOTY5Mzg0NTE4.Gcduig.BP7IuIp-QYU4MXfcwqqVSy7B5rMqFJzEsMkP6Y");
 jano5.login("");
 jano6.login("");
 jano7.login("");
